@@ -1,6 +1,6 @@
 [
     {
-        "repository": "CyanogenMod/android_device_samsung_smdk4412-common",
+        "repository": "driodmaster92/android_device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
         "branch": "cm-10.1"
     },
